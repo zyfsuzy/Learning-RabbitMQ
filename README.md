@@ -1,1 +1,1 @@
-# [Learning-RabbitMQ](https://baidu.com)
+# [Learning-RabbitMQ]
